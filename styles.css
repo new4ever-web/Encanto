@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "Muthiara";
-  src: url("assets/fonts/Muthiara.ttf") format("truetype");
+ src: url("assets/fonts/Muthiara.otf") format("opentype");
   font-display: swap;
 }
 
